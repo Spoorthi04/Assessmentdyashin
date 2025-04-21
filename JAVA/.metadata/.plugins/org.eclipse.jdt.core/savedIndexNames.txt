@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\spoor\OneDrive\Desktop\ASSESSMENT(24-04-2025)\JAVA\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3125101115.index
+1118218457.index
